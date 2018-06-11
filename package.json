@@ -1,0 +1,21 @@
+{
+  "name": "mytexteditor",
+  "version": "1.0.0",
+  "description": "text editor written in javascript, html5 and css, and made into desktop using electron",
+  "main": "main.js",
+  "scripts": {
+    "test": "node start"
+  },
+  "keywords": [
+    "text",
+    "editor",
+    "text",
+    "editor"
+  ],
+  "author": "Olamide Akomolafe",
+  "license": "MIT",
+  "devDependencies": {
+    "electron-packager": "^12.1.0",
+    "electron-prebuilt": "^1.4.13"
+  }
+}

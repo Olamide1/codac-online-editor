@@ -1,0 +1,28 @@
+body 
+{
+    height: max-content;
+    align-content: center;
+    width: max-content;
+    float: left;
+}
+
+.text-editor 
+{
+    height: 800px;
+    width: 800px;
+    background-color: #353434;
+    color: white;
+    font-family: cursive;
+}
+.text-editor:focus {
+        outline: none;
+    }
+.text-editor-footer
+{
+height: 20px;
+width: 800px;
+background-color: rgb(71, 206, 247);
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+font-style: normal;
+font-size: 70%;
+}
